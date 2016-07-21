@@ -1,4 +1,6 @@
 <?php
+// This code is based on the php example in naver search ad api github (https://github.com/naver/searchad-apidoc/tree/master/php-sample)
+
 ini_set("default_socket_timeout", 30);
 require_once 'restapi.php';
 
