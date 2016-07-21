@@ -1,4 +1,4 @@
-# Naver search ADAPI
+# Naver search AD API
 
 네이버 검색광고 API w/ PHP.
 
